@@ -1,0 +1,15 @@
+.upperContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: #3367d6;
+  padding: 12px;
+}
+
+.appLogo {
+  align-self: flex-start;
+}
+
+.inputElement {
+  align-self: center;
+}
